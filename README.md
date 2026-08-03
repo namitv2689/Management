@@ -18,7 +18,9 @@ Packages: mysql-connector-python
 Project Objectives:
 
 Manage student and teacher databases efficiently
+
 Maintain records for attendance, fees, and library books
+
 Provide CRUD operations (Create, Read, Update, Delete) for each module
 
 
