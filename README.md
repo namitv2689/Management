@@ -6,9 +6,13 @@ It is developed in Python (for logic) and MySQL (for database storage).
 Platform & Requirements:
 
 Frontend: Python 3.x (IDLE)
+
 Backend: MySQL 5.x
+
 Connector: mysql.connector
+
 Operating System: Windows/Linux
+
 Packages: mysql-connector-python
 
 Project Objectives:
